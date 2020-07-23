@@ -57,7 +57,8 @@
       "initialSelection": "empty",
       "showVariationsLabels": "true",
       "showValueForVariation": "all",
-      "showVariationsErrorMessage": "true"
+      "showVariationsErrorMessage": "true",
+      "showValueNameForImageVariation": "true"
     }
   },
   "product-price": {
